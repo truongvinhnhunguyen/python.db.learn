@@ -1,5 +1,6 @@
 import psycopg2
 from config import config
+# Making comments
 
 
 def connect():
